@@ -143,4 +143,3 @@ Los análisis realizados en los **Grupos 2 y 3** confirman de manera empírica q
 
 -  [README.md](README.md)
 -  [EJECUCION_GITHUB_ACTIONS.md](Codigo/EJECUCION_GITHUB_ACTIONS.md)
-Prueba GitHub Actions.
