@@ -106,4 +106,4 @@ for idx, archivo in enumerate(archivos_csv, start=1):
     
     plt.close()
 
-print("\nProceso terminado correctamente.")
+print("\nProceso terminado correctamente desde GitHub Actions.")
